@@ -3,7 +3,8 @@ Key Features:  <br>
 1.Interactive dice rolling with randomized results <br>
 2.State management for dynamic updates<br>
 3.Responsive and user-friendly UI<br>
-[No Rules](https://github.com/user-attachments/assets/1365e8be-ee80-48a8-8426-9615e103a221)
-[with rules](https://github.com/user-attachments/assets/54b6290a-c19f-42e7-8261-964729899c97)
-[Landing Page](https://github.com/user-attachments/assets/3c258bea-5a34-42de-b8bb-e9b80d097bca)
 
+
+![with rules](https://github.com/user-attachments/assets/53fcab3c-de6a-4ceb-9677-96916f71fdbd)
+![No Rules](https://github.com/user-attachments/assets/bbd5b971-87fa-4b46-8b60-e5f2fac81820)
+![Landing Page](https://github.com/user-attachments/assets/dc0a3310-d606-4a67-ab6c-8f95b090fbe5)
