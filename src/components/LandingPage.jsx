@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./LandingPage.module.css";
-const LandingPage = ({main_img}) => {
+const LandingPage = ({main_img,handleGamePlay}) => {
   return (
     <div className={styles.section1}>
       <div className={styles.main_img}>
@@ -8,7 +8,7 @@ const LandingPage = ({main_img}) => {
       </div>
       <div className={styles.main_heading}>
         <h1>DICE GAME</h1>
-        <button type="button">Play Now</button>
+        <button type="button" onClick={handleGamePlay}>Play Now</button>
       </div>
     </div>
   );
