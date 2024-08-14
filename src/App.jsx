@@ -10,13 +10,13 @@ const App = () => {
     setIsGameStarted((val) => !val);
   };
   return (
-    <div className={styles.container}>
+    <>
       {isGameStarted ? (
         <GamePlay />
       ) : (
         <LandingPage main_img={main_img} handleGamePlay={handleGamePlay} />
       )}
-    </div>
+    </>
   );
 };
 
