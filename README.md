@@ -35,3 +35,6 @@ To play the game or explore the code, clone the repository and follow the setup 
 ---
 
 This layout uses clear headings, bullet points, and well-aligned images to make the README visually appealing and easy to navigate. The use of emojis adds a touch of personality and makes the content more engaging.
+
+🌐 Live Demo
+Check out the live demo of HappyEat here https://dice-game-rho-dusky.vercel.app/
